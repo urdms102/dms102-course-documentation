@@ -2,9 +2,7 @@
 
 This course introduces core concepts and techniques of computer programming and mobile app development to prepare students for more advanced topics in creation, manipulation, storage and transmission of digital media. Students will develop an understanding of computer capabilities and the skills required of computer programmers. No previous programming experience is required. 
 
- **Course Objectives** 
-
-At the conclusion of this course, students should be able to: 
+**Course Objectives:** at the conclusion of this course, students should be able to: 
 
 - Demonstrate a proficiency in the Google Dart programming language
 
@@ -41,11 +39,11 @@ At the conclusion of this course, students should be able to:
 
 ![professor-kostin](media/professor-kostin.jpg)
 
-- Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
-- **Messaging**​
-  - e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
-  - For faster reply, please use [**Slack**](https://dms102.slack.com/) to contact the professor; send a **DM to Professor Kostin**
-  - For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
+Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
+
+- e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
+- For faster reply, please use [**Slack**](https://dms102.slack.com/) to contact the professor; send a **DM to Professor Kostin**
+- For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
 The professor will be online to present assignments, provide suggestions, and answer questions via our **#help channel in Slack**, and via scheduled **Zoom** sessions.
 
@@ -64,6 +62,12 @@ Textbook (required) **Flutter for Beginners**
 - ISBN-10: 1788996089, ISBN-13: 978-1788996082
 
 Additional reading and videos will be posted as needed
+
+## The Virtual Classroom Experience
+
+Each scheduled class session will be of two types: (#1) lecture/demo and (#2) workshop. On lecture/demo days, the instructor will introduce new concepts and walk the students through a step-by-step application of them. Workshop days will begin with the instructor introducing the next assignment and then allowing time for supervised work on that assignment. 
+
+Due to the hands-on nature of the class, comprehensive reading and active participation are not only vital to your grade, but also to your education. 
 
 ## Grading
 
@@ -86,11 +90,12 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity             | Weight of the final grade |
-| -------------------- | ------------------------- |
-| **Lab Assignments**  | 35%                       |
-| **Quizzes (online)** | 15%                       |
-| **Group Project**    | 50%                       |
+| Activity                  | Weight of the final grade |
+| ------------------------- | ------------------------- |
+| Homework assignments (x8) | 40%                       |
+| Projects (x3)             | 30%                       |
+| Final Project             | 20%                       |
+| Participation             | 10%                       |
 
 ## Late assignments
 
@@ -101,15 +106,13 @@ Homework assignments handed in after the deadline without appropriate excuse wil
 - Following this system, homework handed in 10 or more days late cannot receive a grade higher than 0% and therefore will not be graded. 
 - Exceptions to this policy may be made by the professor at the his discretion, in response to extenuating circumstances
 
-## Academic Honesty
+## Academic Integrity
 
-All assignments and activities associated with this course must be performed in accordance with the [University of Rochester's Academic Honesty Policy](http://www.rochester.edu/college/honesty/). 
+Any violation of academic integrity, such as, but not limited to, plagiarism, will not be tolerated. Anyone suspected of plagiarism will be subject to according disciplinary procedures. Plagiarism is the presenting of someone else’s writings or ideas as one’s own. Any ideas, wording, or material taken from another source must be acknowledged and properly documented. Failure to credit one’s sources constitutes an act of plagiarism, regardless of whether the act was done intentionally or unintentionally. 
 
-You may discuss homework problems with others, but you must not retain written (or photographed) notes from your conversations with other students, or share data via computer files to be used in completing your homework. Your homework must be completed without reference to such notes, with the exception of class and recitation notes, which may be retained in written form. This rule also applies to collaboration between different groups for your group projects. This rule is in place to ensure that you have learned and understand the material based on your discussion and are not simply copying what you were told at critical points in your assignments.
+## College Policy Concerning Students with Disabilities
 
-## Attendance
-
-Class attendance and participation is expected. Attendance is not taken and you will notice that there is no attendance component to your grade. However, students that skip lectures will likely have a much more difficult time with quizzes, homework, and the group project. 
+The University of Rochester respects and welcomes students of all backgrounds and abilities. In the event you encounter any barrier(s) to full participation in this course due to the impact of a disability please contact the Office of Disability Resources. The access coordinators in the Office of Disability Resources can meet with you to discuss the barriers you are experiencing and explain the eligibility process for establishing academic accommodations. You can reach the Office of Disability Resources at: disability@rochester.edu; (585) 276-5075; Taylor Hall. 
 
 ##Incompletes
 
