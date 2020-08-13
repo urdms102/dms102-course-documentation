@@ -2,6 +2,18 @@
 
 This course introduces core concepts and techniques of computer programming and mobile app development to prepare students for more advanced topics in creation, manipulation, storage and transmission of digital media. Students will develop an understanding of computer capabilities and the skills required of computer programmers. No previous programming experience is required. 
 
+ **Course Objectives** 
+
+At the conclusion of this course, students should be able to: 
+
+- Demonstrate a proficiency in the Google Dart programming language
+
+- Use Google Dart to manipulate text, images, audio, and video
+
+- Synthesize the individual multi-media programming techniques into a cohesive product
+
+- Identify the fundamental concepts of Google Dart in other, similar programming languages
+
 ## Course Section:<br>**DMST 102-1 - Programming Digital Media**
 
 - Meeting Pattern: **Tues/Thurs 2:00 PM - 3:15 PM EDT**
@@ -35,13 +47,23 @@ This course introduces core concepts and techniques of computer programming and 
   - For faster reply, please use [**Slack**](https://dms102.slack.com/) to contact the professor; send a **DM to Professor Kostin**
   - For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
-### Teaching Assistants
-
 The professor will be online to present assignments, provide suggestions, and answer questions via our **#help channel in Slack**, and via scheduled **Zoom** sessions.
 
 - To learn about **assignments**, attend the scheduled Zoom sessions
 - To get **technical help** in Slack, use the #help channel; the professor will answer
 - To discuss **grades or private matters**, send a DM to the professor in Slack
+
+## Textbook
+
+![book](media/book.jpg)
+
+Textbook (required) **Flutter for Beginners**
+
+- Biessek, A. (2019)
+- Packt Publishing
+- ISBN-10: 1788996089, ISBN-13: 978-1788996082
+
+Additional reading and videos will be posted as needed
 
 ## Grading
 
@@ -77,7 +99,7 @@ Homework assignments handed in after the deadline without appropriate excuse wil
 - For example, an assignment which would receive a grade of 85% if handed in on time, would receive a grade of 85% x 90% = 76.5%
 - If handed in the next day. The same assignment turned in three days late would receive a grade of 85% x 70% = 59.5%. 
 - Following this system, homework handed in 10 or more days late cannot receive a grade higher than 0% and therefore will not be graded. 
-- Exceptions to this policy may be made by the TA at the TA's discretion, in response to extenuating circumstances
+- Exceptions to this policy may be made by the professor at the his discretion, in response to extenuating circumstances
 
 ## Academic Honesty
 
