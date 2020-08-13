@@ -114,7 +114,7 @@ Any violation of academic integrity, such as, but not limited to, plagiarism, wi
 
 The University of Rochester respects and welcomes students of all backgrounds and abilities. In the event you encounter any barrier(s) to full participation in this course due to the impact of a disability please contact the Office of Disability Resources. The access coordinators in the Office of Disability Resources can meet with you to discuss the barriers you are experiencing and explain the eligibility process for establishing academic accommodations. You can reach the Office of Disability Resources at: disability@rochester.edu; (585) 276-5075; Taylor Hall. 
 
-##Incompletes
+## Incompletes
 
 This course follows the [university policy](https://www.rochester.edu/college/ccas/handbook/incompletes.html) regarding incompletes. Incompletes may be given only when there are circumstances beyond the student's control, such as illness or personal emergency, that prevented the student from finishing the coursework on time.
 
