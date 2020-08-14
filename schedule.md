@@ -37,7 +37,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Zoom** sessions - you are required to attend in real-time
 - Inability to attend Zoom sessions in real-time requires you to watch the full recording of the session in **Panopto** within 24 hours of posting
-- Note: **attendance** will be tracked in Zoom and Panopto and will affect your *participation* grade (also note both systems monitor your attendance/viewing down to the minute)
+- Note: **attendance** will be tracked in Zoom and Panopto and will affect your *participation* grade (also note that both Zoom and Panopto monitor your attendance/viewing down to the minute)
 
 <hr>
 
