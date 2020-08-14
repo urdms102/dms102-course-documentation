@@ -7,4 +7,5 @@ Programming Digital Media
 ## Thursday, August 27, 2020
 
 - Lecture 1: Introduction to the Course
+- Assignment: Install Flutter
 
