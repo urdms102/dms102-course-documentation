@@ -33,12 +33,13 @@ This schedule is subject to modification throughout the semester. Always check w
 | 28    | Thursday, December 3, 2020   | Workshop: Putting It All Together, cont'd   |                                                 |                                                              |
 | 29    | Tuesday, December 8, 2020    | Workshop: Putting It All Together, cont'd   |                                                 |                                                              |
 
-\* "**In class**" means...
+***Further Topics TBD by Interest***
+
+<hr>
+
+
+\* “**In class**” means…
 
 - **Zoom** sessions - you are required to attend in real-time
 - Inability to attend Zoom sessions in real-time requires you to watch the full recording of the session in **Panopto** within 24 hours of posting
 - Note: **attendance** will be tracked in Zoom and Panopto and will affect your *participation* grade (also note that both Zoom and Panopto monitor your attendance/viewing down to the minute)
-
-<hr>
-
-***Further Topics TBD by Interest***
