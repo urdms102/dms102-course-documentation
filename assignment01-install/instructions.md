@@ -8,9 +8,9 @@ Note: part of the installation process for Flutter will have you install its dep
 - For your reference, the official instructions for installing Flutter from the publisher are here: [Install Instructions from Flutter.dev/docs/getting-started](https://flutter.dev/docs/get-started/install), but they assume you're already a software developer and you have familiarity with working with IDEs (Integrated Development Environments) and using a CLI (Command Line Interface). So...
 - Instead of using those instructions by themselves, I recommend these tutorials (below) that do a better job of walking you through the process.
 - NOTES:
-- As part of these instructions you *do* need to install the dependency: **Git** (not GitHub!)
-  - These tutorials: one year old (pretty good); your milage may vary esp. if you don't have your OS updated ...so make sure you install OS updates!
-  - The installation process *really does take a long time*, depending on a lot of factors like your connectivity speed and your computer's speed.  Plan accordingly.
+    - As part of these instructions you *do* need to install the dependency: **Git** (not GitHub!)
+    - These tutorials: one year old (pretty good); your milage may vary esp. if you don't have your OS updated ...so make sure you install OS updates!
+    - The installation process *really does take a long time*, depending on a lot of factors like your connectivity speed and your computer's speed.  Plan accordingly.
 - Tutorials:
     - WINDOWS tutorials (parts 1,2,3):<br>
         [How to Install and Setup Flutter for App Development on Windows - Part 1](https://youtu.be/Z2ugnpCQuyw)<br>
