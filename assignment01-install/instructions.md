@@ -17,7 +17,7 @@ Note: part of the installation process for Flutter will have you install its dep
         [How to Install and Setup Flutter for App Development on Windows - Part 2](https://youtu.be/8YlJ9RjdpkA)<br>
         [How to Install and Setup Flutter for App Development on Windows - Part 3](https://youtu.be/n9qDNVoe5V8)
     - MAC tutorials (parts 1,2,3,4,5)<br>
-      [How to Install and Setup Flutter for App Development on Mac - Part 1](https://youtu.be/hL7pkX1Pfko) *([important note! - see here](#note1))<br>
+      [How to Install and Setup Flutter for App Development on Mac - Part 1](https://youtu.be/hL7pkX1Pfko) *([important note! - see here](#notes))<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 2](https://youtu.be/gv1LScpG0jM)<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 3](https://youtu.be/_p3VbxiVuRU)<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 4](https://youtu.be/3oIFshgMgLA)<br>
