@@ -19,7 +19,7 @@ Note: part of the installation process for Flutter will have you install its dep
     - MAC tutorials (parts 1,2,3,4,5)<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 1](https://youtu.be/hL7pkX1Pfko) *([important note! - see here](#notes))<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 2](https://youtu.be/gv1LScpG0jM)<br>
-      [How to Install and Setup Flutter for App Development on Mac - Part 3](https://youtu.be/_p3VbxiVuRU)<br>
+      [How to Install and Setup Flutter for App Development on Mac - Part 3](https://youtu.be/_p3VbxiVuRU) **([another important note!](#notes)) <br>
       [How to Install and Setup Flutter for App Development on Mac - Part 4](https://youtu.be/3oIFshgMgLA)<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 5](https://youtu.be/H_xusHxICbk)
     - Other Videos
@@ -33,9 +33,18 @@ And BTW, here is the link to the channel from where all these videos come from: 
 
 
 
-###### Notes
+###### Important Notes
 
 \* Since the recording of these videos some of the instructions *may* need to be changed based on the particulars of your operating system.  In the Mac operating system, the name of the file for setting the "PATH" to Flutter (see timestamp: 5:18) *may* need to be different based on the type of "shell" (command line program) you're using.  
 
 - If you're using "Bash" (look in the title bar of the Terminal window), then the instructions in the video are correct
 - If you're using "Zsh" (look in the title bar of the Terminal window), then you need to use filename: **.zshrc**, instead of .bash_profile, so you would type: `vim .zshrc` instead.
+
+\** At video timestamp 1:11, the presenter selects *Pie* which is no longer in the *Recommended* list.  That's okay.  Navigate to the "x86 Images" tab and select and download **Pie - API Level 27 - x86_64**
+
+
+
+
+
+
+
