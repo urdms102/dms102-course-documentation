@@ -6,10 +6,10 @@ Your assignment is to install **Flutter**, the framework we'll be using to build
 Note: part of the installation process for Flutter will have you install its dependencies which includes **Dart** and some other required programs depending on whether you're using a Mac or PC, and whether you want to develop apps for Android devices and/or iOS.
 
 - For your reference, the official instructions for installing Flutter from the publisher are here: [Install Instructions from Flutter.dev/docs/getting-started](https://flutter.dev/docs/get-started/install), but they assume you're already a software developer and you have familiarity with working with IDEs (Integrated Development Environments) and using a CLI (Command Line Interface). So...
-- Instead of using those instructions by themselves, I recommend these tutorials (below) that do a better job of walking you through the process.
-- NOTES:
-    - As part of these instructions you *do* need to install the dependency: **Git** (not GitHub!)
-    - These tutorials: one year old (pretty good); your milage may vary esp. if you don't have your OS updated ...so make sure you install OS updates!
+- Instead of using those instructions by themselves, I recommend you open that link (above) and then use these tutorials (below) that do a better job of walking you through the process.
+- NOTES before you start:
+    - Make sure your OS (operating system) is up-to-date!
+    - These tutorials are one year old so there is some information and screens that are out of date.  See the "important notes" where indicated
     - The installation process *really does take a long time*, depending on a lot of factors like your connectivity speed and your computer's speed.  Plan accordingly.
 - Tutorials:
     - WINDOWS tutorials (parts 1,2,3):<br>
@@ -22,8 +22,8 @@ Note: part of the installation process for Flutter will have you install its dep
       [How to Install and Setup Flutter for App Development on Mac - Part 3](https://youtu.be/_p3VbxiVuRU) **([another important note!](#notes)) <br>
       [How to Install and Setup Flutter for App Development on Mac - Part 4](https://youtu.be/3oIFshgMgLA)<br>
       [How to Install and Setup Flutter for App Development on Mac - Part 5](https://youtu.be/H_xusHxICbk)
-    - Other Videos
-      - [What is Flutter?](https://youtu.be/I9ceqw5Ny-4) (recommended - watch this while you wait for some of the longer installation processes to complete)
+    - Other Videos - watch these while you wait for some of the longer installation processes to complete
+      - [What is Flutter?](https://youtu.be/I9ceqw5Ny-4) (recommended)
       - [Why Choose Flutter?](https://youtu.be/L2OsgmirBwo) (somewhat redundant with the previous video, but also recommended)
       - [Prerequisites for Flutter Development](https://youtu.be/7gegvWBMOTg) (interesting information about the differences between developing on a Mac vs. Windows PC)
       - [Using Android Studio for Flutter Development - Part 1 - Configuration](https://youtu.be/47keBFllFvQ) (may be good for informational purposes, but probably not useful)
@@ -32,6 +32,8 @@ Note: part of the installation process for Flutter will have you install its dep
 And BTW, here is the link to the channel from where all these videos come from: [London App Brewery](https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm)
 
 
+
+<hr>
 
 ###### Important Notes
 
