@@ -25,7 +25,7 @@ Note: part of the installation process for Flutter will have you install its dep
     - Other Videos
       - [What is Flutter?](https://youtu.be/I9ceqw5Ny-4) (recommended - watch this while you wait for some of the longer installation processes to complete)
       - [Why Choose Flutter?](https://youtu.be/L2OsgmirBwo) (somewhat redundant with the previous video, but also recommended)
-      - [Prerequisites for Flutter Development](https://youtu.be/7gegvWBMOTg) (probably *not* useful)
+      - [Prerequisites for Flutter Development](https://youtu.be/7gegvWBMOTg) (interesting information about the differences between developing on a Mac vs. Windows PC)
       - [Using Android Studio for Flutter Development - Part 1 - Configuration](https://youtu.be/47keBFllFvQ) (may be good for informational purposes, but probably not useful)
       - [Using Android Studio for Flutter Development - Part 2 - Guided Tour](https://youtu.be/enUdOLgl4Jk) (also probably not useful)
 
