@@ -93,9 +93,8 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | Activity                  | Weight of the final grade |
 | ------------------------- | ------------------------- |
 | Homework assignments (x8) | 40%                       |
-| Projects (x3)             | 30%                       |
-| Final Project             | 20%                       |
-| Participation             | 10%                       |
+| Projects (x3)             | 35%                       |
+| Final Project             | 25%                       |
 
 ## Late assignments
 
