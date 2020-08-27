@@ -5,18 +5,12 @@ Programming Digital Media
 
 ## Thursday, August 27, 2020
 
-- Lecture 1: Introduction to the Course
-- Assignment: Install Flutter<br><br>
+- [Lecture 1: Introduction to DMS 102 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45909f0f-ef3d-4bc5-b626-ac220111be7b) and [(PDF)](01-intro/intro-dms102.pdf)
+- [Assignment 1: Install Dart & Flutter](assignment01-install/instructions.md)<br><br>
 
 
 <hr>
 
 
-- For **technical help**
-  - Use [**Slack**](https://dms-102.slack.com/) (asynchronous help): the professor (and possibly other students) will answer technical questions in the **#help** channel
-  - Attend scheduled lab sessions (synchronous help): the professor will lead discussions and answer questions in real-time via **Zoom**; see the **#announcements** channel in Slack for times and connection info
-- To schedule a **private, discussion with the professor**
-  - Use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
-
-
+To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
 
