@@ -1,10 +1,12 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with Professor Kostin if you have any questions.
 
+To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
+
 | Class | Date                         | TOPIC                                                        | In-class Assignment*                            | Assigned Reading/Homework                                    |
 | ----- | ---------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
 | 1     | Thursday, August 27, 2020    | [Lecture 1: Introduction to DMS 102 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45909f0f-ef3d-4bc5-b626-ac220111be7b) and [(PDF)](01-intro/intro-dms102.pdf) |                                                 | [Assignment 1: Install Dart & Flutter](assignment01-install/instructions.md) |
-| 2     | Tuesday, September 1, 2020   | Lecture: Basics &  Debugging                                 |                                                 |                                                              |
+| 2     | Tuesday, September 1, 2020   | [Lecture 2: Programming Fundamentals (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b644f288-1c61-4024-951a-ac29017c4967) and [(PDF)](02-programming-fundamentals1/programming-fundamentals1.pdf) |                                                 | *Hint: start reading chapters 1-3*                           |
 | 3     | Thursday, September 3, 2020  | Workshop: Mad Libs                                           | Assignment 2: Mad Libs                          |                                                              |
 | 4     | Tuesday, September 8, 2020   | Lecture: Widgets, Styling, App  Logic                        |                                                 | Read Chapters 1-3<br>1. An Introduction to Dart<br>2. Intermediate Dart Programming<br>3. An Introduction to Flutter |
 | 5     | Thursday, September 10, 2020 | Workshop: Classes                                            | Assignment 3: Classes                           |                                                              |
