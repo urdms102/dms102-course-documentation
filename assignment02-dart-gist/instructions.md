@@ -17,16 +17,17 @@ Zoe is about 1.25 feet tall, and I am 6.00 feet tall.
 I am taller than Zoe by a factor of 4.8:1.
 **************************
 Favorite Song
-My favorite song is the one about bottles of beer. It goes like this:
-99 bottles of beer on the wall...
-98 bottles of beer on the wall...
-97 bottles of beer on the wall...
+Zoe's favorite song is the one about bottles of beer, except she likes
+cat food. It goes like this:
+99 cans of cat food on the wall...
+98 cans of cat food on the wall...
+97 cans of cat food on the wall...
 ...you get the idea
 ```
 
-The above output can be written in Dart using all six *things that computers can do*.
+*The above output can be written in Dart using all six things that computers can do.*
 
-**Another Requirement:** you must use plenty of comments in your Dart code to explain what's what.
+**Another Requirement:** you must use plenty of comments in the Dart code to explain what's what and to demonstrate you know how the code works.  Also, highlight your use of each of the *six things* in the comments.
 
 ## Turn it in
 
