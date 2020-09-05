@@ -26,6 +26,8 @@ My favorite song is the one about bottles of beer. It goes like this:
 
 The above output can be written in Dart using all six *things that computers can do*.
 
+**Another Requirement:** you must use plenty of comments in your Dart code to explain what's what.
+
 ## Turn it in
 
 When your program works without error in DartPad, create a Gist for it and bring it up in DartPad.  Then turn-in the DartPad URL in the **Assignment 2: Dart Gist** in Blackboard.
