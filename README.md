@@ -10,6 +10,7 @@ Programming Digital Media
 - [Lecture 4: Programming Fundamentals, part 3 - supplemental demo (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7aa16050-2ea3-42e4-9d47-ac2d00d648d0)
   - Reference information: [Dart Programming Tutorial (Tutorialspoint website)](https://www.tutorialspoint.com/dart_programming/index.htm) ...and if you find other useful reference websites for Dart, share them in the #chatter channel in Slack
 - [Assignment 2: Dart Gist](assignment02-dart-gist/instructions.md) (due: Thursday, September 10)
+  - A useful video: [Share your DartPad using GitHub Gist (YouTube 1:47)](https://youtu.be/2Lh7TslkkKU)
 
 ## Thursday, September 3, 2020
 
