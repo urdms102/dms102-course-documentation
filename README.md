@@ -12,9 +12,8 @@ Programming Digital Media
 - [Assignment 2: Dart Gist](assignment02-dart-gist/instructions.md) (due: Thursday, September 10)
   - A useful video: [Share your DartPad using GitHub Gist (YouTube 1:47)](https://youtu.be/2Lh7TslkkKU)
 
-## Thursday, September 3, 2020
-
-- [Lecture 3a: Programming Fundamentals, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3fef8aa-dfbb-4f93-ab8a-ac2b00fbcd27) and [(PDF)](03-programming-fundamentals2/programming-fundamentals2.pdf)
-- [Lecture (workshop actually) 3b: Programming Fundamentals, part 2 using Dart (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=547d735b-6e9f-4556-bb60-ac2b01641ecd)
-  - Dart: [dartpad.dev](https://dartpad.dev/) and in China, [dartpad.cn](https://dartpad.cn/)
+- Homework: in **Flutter for Beginners**, read Chapters 1-3
+  1. An Introduction to Dart
+  2. Intermediate Dart Programming
+  3. An Introduction to Flutter
 
