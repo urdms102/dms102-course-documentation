@@ -17,3 +17,8 @@ Programming Digital Media
   2. Intermediate Dart Programming
   3. An Introduction to Flutter
 
+## Thursday, September 10, 2020
+
+- Lecture 5: Object Oriented Programming (Delayed)
+  
+- Continue staying focused on **Flutter for Beginners**, Chapters 1-3
