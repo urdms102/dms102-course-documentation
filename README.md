@@ -7,5 +7,6 @@ Programming Digital Media
 
 - [Lecture 5: Object Oriented Programming (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a316054a-0dc4-485e-a0a1-ac3300079183)
   - Includes 35 minutes of embedded videos
-  - Supplemental: [Code with Andrea - Introduction to Dart (YouTube Playlist)](https://www.youtube.com/c/CodeWithAndrea/playlists)
+  - Supplemental/optional: [Code with Andrea - Dart Language (YouTube Playlist)](https://www.youtube.com/playlist?list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE-)
 - Continue staying focused on **Flutter for Beginners**, Chapters 1-3
+
