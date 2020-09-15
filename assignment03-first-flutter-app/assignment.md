@@ -14,4 +14,4 @@ This assignment requires you to use Flutter and Android Studio to create a basic
 ## Turn it in
 
 - When your program works without error in your AVD in Android Studio, create a GitHub Gist for it
-- Turn-in the *DartPad* URL of the Gist in the **Assignment 3: First Flutter App** in Blackboard.
+- Turn-in the *DartPad* URL of the Gist in the **Assignment 3: First Flutter App** in Blackboard. 
