@@ -5,6 +5,6 @@ Programming Digital Media
 
 ## Tuesday, September 15, 2020
 
-- [Lecture 6: First Flutter App - workshop (Live Session in Zoom, 2:00 - 3:15 PM EDT)](https://rochester.zoom.us/j/95155140724)
+- [Lecture 6: First Flutter App - workshop (Live Session in Zoom, 2:00 - 3:15 PM EDT)](https://rochester.zoom.us/j/95155140724) and [(PDF)](06-first-flutter-app/first-flutter-app.pdf)
 - [Assignment 3: First Flutter App](assignment03-first-flutter-app/instructions.md) (Due: Tuesday, September 15, 2020 - today)
 
