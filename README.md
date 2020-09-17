@@ -10,3 +10,4 @@ Programming Digital Media
   - Be prepared to work with the Flutter SDK in Android Studio
 
 If needed be prepared to use the **University's Virtual Desktop** at [desktop.rochester.edu](https://desktop.rochester.edu/). For more information, see the University's [Learning During Times of Disruption](https://www.rochester.edu/online-learning/disruption/student/software_access.html) webpage
+
