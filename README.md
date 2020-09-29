@@ -5,7 +5,8 @@ Programming Digital Media
 
 ## Tuesday, September 29, 2020
 
-- [Class 10: Workshop - App Structure 2, packages & libraries (Live discussion, Zoom)](https://rochester.zoom.us/j/95155140724) at 2:00 PM EDT
+- [Class 10: Workshop - App Structure 2, packages & libraries (Live discussion, Zoom)](https://rochester.zoom.us/j/95155140724) at 2:00 PM EDT and [(PDF)](10-packages-and-libraries/libaries-and-packages.pdf)
+  - [Code snippets - for use in the workshop today (ZIP)](10-packages-and-libraries/snippets.zip)
 
 *Continue working on...*
 
