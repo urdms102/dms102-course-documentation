@@ -5,11 +5,6 @@ Programming Digital Media
 
 ## Tuesday, October 6, 2020
 
-- Lecture 12: Flutter Images
-  - Assignment 6: coming soon
-
-## Thursday, October 1, 2020
-
-- [Lecture 11: Workshop - Maps, Constructors, and Callbacks (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9f4fa9e-b8e1-4ad3-9518-ac47015b4ee9)
-  - [Code snippets (2) - for use in the workshop (ZIP)](11-maps-contructors-callbacks/snippets2.zip)
+- [Lecture 12: Flutter Images (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5de10f22-8610-4df6-a5cc-ac4b01690874&start=0)
+- [Assignment 5: Flutter Images](assignment05-flutter-images/instructions.md) (due: Thursday, October 8)
 
