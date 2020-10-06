@@ -24,3 +24,5 @@ You need to turn in BOTH apps in one Blackboard submission.  Go to the **Assignm
 
 - For the **Android Studio app**: ZIP (compress) the folder that contains the app and attach the ZIP file to the assignment submission
 
+
+
