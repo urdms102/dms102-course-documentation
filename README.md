@@ -10,5 +10,5 @@ Programming Digital Media
   - [English Words Package (on pub.dev)](https://pub.dev/packages/english_words)
   - [Carousel Slider Package (on pub.dev)](https://pub.dev/packages/carousel_slider)
   - [Starter Code Snippets x2 (ZIP)](13-image-carousel/starter-code-snippets.zip)
-- Assignment 6: coming soon
+- [Assignment 6: Image Carousel](assignment06-image-carousel/instructions.md) (due: Tuesday, October 13) 
 
