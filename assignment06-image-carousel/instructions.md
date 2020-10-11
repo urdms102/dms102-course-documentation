@@ -8,7 +8,7 @@ You will need:
 
 - Install: [Carousel Slider Package (on pub.dev)](https://pub.dev/packages/carousel_slider)
   - Then install the package into a new Android Studio project
-- Use the file, **starter_code2.txt** from this ZIP file: [Starter Code Snippets x2 (ZIP)](13-image-carousel/starter-code-snippets.zip)
+- Use the file, **starter_code2.txt** from this ZIP file: [Starter Code Snippets x2 (ZIP)](../13-image-carousel/starter-code-snippets.zip)
   - Use the snippet in your **main.dart** file and then edit where indicated
   - Remember: you need to edit your **pubspec.yaml** file when using local assets
 
