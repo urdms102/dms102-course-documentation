@@ -36,8 +36,9 @@ The list of requirements for the Final Project will be coming soon, but in the m
   - Tutorials (articles and/or YouTube)
   - Packages (see [pub.dev](https://pub.dev/))
   - Open source apps (usually in GitHub)
+
 - You will need to **write-up a proposal** of what you plan to build, and you'll need to turn it in by a certain due date (coming soon)
-  
+
   - In your proposal you'll need to specify if you plan to deliver one, two, or three apps to fulfill the final requirements
 
 Eventually, there will be a detailed set of instructions and rubric to follow, but in the meantime, here's a high-level view of what kind of grade you can expect:
@@ -48,17 +49,20 @@ Eventually, there will be a detailed set of instructions and rubric to follow, b
 
 ## Starter Websites
 
-Just to help you get thinking, here are some websites that have lots of open source code that you can use for your own Flutter projects.  
+Just to help you get thinking, here are some websites that have lots of open source code that you can use for your own Flutter projects.
 
 -	[Open Source Flutter Apps (a listing in GitHub)](https://github.com/tortuvshin/open-source-flutter-apps)
+
   -	Just a list by someone named Turtuvshin Byambaa
   -	Really well curated
   -	Example: [Flutter Pokedex (GitHub)](https://github.com/scitbiz/flutter_pokedex)
 
 -	[Flutter Awesome (website)](https://flutterawesome.com/)
+
   -	A huge database of free stuff; looks official
 
 -	[Awesome Open Source (website)](https://awesomeopensource.com/projects/flutter)
+
   -	Lots of free apps and widgets
   -	Example: [Flutter Tetris game (GitHub)](https://github.com/boyan01/flutter-tetris)
 
