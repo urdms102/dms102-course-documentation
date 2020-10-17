@@ -54,8 +54,10 @@ Just to help you get thinking, here are some websites that have lots of open sou
   -	Just a list by someone named Turtuvshin Byambaa
   -	Really well curated
   -	Example: [Flutter Pokedex (GitHub)](https://github.com/scitbiz/flutter_pokedex)
+
 -	[Flutter Awesome (website)](https://flutterawesome.com/)
   -	A huge database of free stuff; looks official
+
 -	[Awesome Open Source (website)](https://awesomeopensource.com/projects/flutter)
   -	Lots of free apps and widgets
   -	Example: [Flutter Tetris game (GitHub)](https://github.com/boyan01/flutter-tetris)
