@@ -46,8 +46,6 @@ Eventually, there will be a detailed set of instructions and rubric to follow, b
 - **B:** taking an existing app and re-purposing it into a new app
 - **A:** taking multiple existing apps, widgets, and/or packages and repurposing them into something completely new and novel
 
-The due date for everything will be the end of the semester.
-
 ## Starter Websites
 
 Just to help you get thinking, here are some websites that have lots of open source code that you can use for your own Flutter projects.  
