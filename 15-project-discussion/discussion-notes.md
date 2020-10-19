@@ -51,15 +51,15 @@ Eventually, there will be a detailed set of instructions and rubric to follow, b
 
 Just to help you get thinking, here are some websites that have lots of open source code that you can use for your own Flutter projects.
 
--	[Open Source Flutter Apps (a listing in GitHub)](https://github.com/tortuvshin/open-source-flutter-apps)
+- [Open Source Flutter Apps (a listing in GitHub)](https://github.com/tortuvshin/open-source-flutter-apps)
   -	Just a list by someone named Turtuvshin Byambaa
   -	Really well curated
   -	Example: [Flutter Pokedex (GitHub)](https://github.com/scitbiz/flutter_pokedex)
 
--	[Flutter Awesome (website)](https://flutterawesome.com/)
+- [Flutter Awesome (website)](https://flutterawesome.com/)
   -	A huge database of free stuff; looks official
 
--	[Awesome Open Source (website)](https://awesomeopensource.com/projects/flutter)
+- [Awesome Open Source (website)](https://awesomeopensource.com/projects/flutter)
   -	Lots of free apps and widgets
   -	Example: [Flutter Tetris game (GitHub)](https://github.com/boyan01/flutter-tetris)
 
