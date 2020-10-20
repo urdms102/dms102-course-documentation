@@ -5,7 +5,8 @@ Programming Digital Media
 
 ## Tuesday, October 20, 2020
 
-- [Data Persistence (live discussion, Zoom)](https://rochester.zoom.us/j/95155140724)
+- [Data Persistence (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d877b5c-1792-4cea-8409-ac5a0150281f)
+  - Summary, coming soon
 
 ## Thursday, October 15, 2020
 
