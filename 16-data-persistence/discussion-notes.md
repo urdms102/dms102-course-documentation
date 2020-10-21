@@ -1,6 +1,6 @@
 # Discussion Notes
 
-Here is a list of notes and summaries about what we discussed in last Thursday's project discussion on Tuesday, October 20th.
+Here is a list of notes and summaries about what we discussed in last Tuesday's discussion on Tuesday, October 20th.
 
 ## DMS 102 Shared Resources
 
