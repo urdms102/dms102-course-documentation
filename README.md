@@ -5,11 +5,6 @@ Programming Digital Media
 
 ## Thursday, October 22, 2020
 
-- Workshop: **Assignment 7 - Data Persistence**
-  - Also, pre-proposal discussions
-
-## Tuesday, October 20, 2020
-
-- [Data Persistence (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d877b5c-1792-4cea-8409-ac5a0150281f)
-- [Discussion Notes (Course Documentation page)](16-data-persistence/discussion-notes.md)
+- Workshop: [Assignment 7 - Data Persistence](assignment07-persistent-data/instructions.md) (*Due: Tuesday, October 27, 2020*)
+  - Also [tutorial reviews](https://docs.google.com/spreadsheets/d/1q9B9kctL961wwVnVgzTvkROltFTi1rKL3NvXwDOovys/edit#gid=1404322235) and pre-proposal discussions for the final project
 
