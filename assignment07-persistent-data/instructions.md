@@ -1,6 +1,6 @@
 # Assignment 7: Persistent Data
 
-*Due: Tuesday, October 27, 2020*
+*Due: <s>Tuesday, October 27, 2020</s>* Updated: Thursday, October 29, 2020
 
 This assignment requires you to find your own tutorial about [Google Firebase](https://firebase.google.com/) (specifically, ["Cloud Firestore"](https://firebase.google.com/docs/firestore)), and then create your own Flutter app based on it.
 
