@@ -90,20 +90,10 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity                  | Weight of the final grade |
-| ------------------------- | ------------------------- |
-| Homework assignments (x8) | 40%                       |
-| Projects (x3)             | 35%                       |
-| Final Project             | 25%                       |
-
-## Late assignments
-
-Homework assignments handed in after the deadline without appropriate excuse will receive reduced credit. The maximum possible score on late homework will decrease by 10% for each day late. 
-
-- For example, an assignment which would receive a grade of 85% if handed in on time, would receive a grade of 85% x 90% = 76.5%
-- If handed in the next day. The same assignment turned in three days late would receive a grade of 85% x 70% = 59.5%. 
-- Following this system, homework handed in 10 or more days late cannot receive a grade higher than 0% and therefore will not be graded. 
-- Exceptions to this policy may be made by the professor at the his discretion, in response to extenuating circumstances
+| Activity             | Weight of the final grade |
+| -------------------- | ------------------------- |
+| Homework assignments | 50%                       |
+| Final Project        | 50%                       |
 
 ## Academic Integrity
 
