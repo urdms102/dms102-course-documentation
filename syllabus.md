@@ -90,10 +90,12 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity             | Weight of the final grade |
-| -------------------- | ------------------------- |
-| Homework assignments | 50%                       |
-| Final Project        | 50%                       |
+| Activity                  | Weight of the final grade |
+| ------------------------- | ------------------------- |
+| Homework assignments      | 40%                       |
+| Project Discussions/Input | 10%                       |
+| Project Proposal          | 20%                       |
+| Final Application(s)      | 30%                       |
 
 ## Academic Integrity
 
