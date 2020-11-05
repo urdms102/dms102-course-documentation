@@ -3,12 +3,13 @@ Programming Digital Media
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) &lArr; here be: slides, assignments, and related links
 
-## Tuesday, November 3, 2020
+## Tuesday, November 5, 2020
 
-- [Final Project, Part 1 Review and Feedback (discussion, Zoom)](https://rochester.zoom.us/j/95155140724) ...starting at 2:00 PM
+- [Publishing Apps in the Google Play Store (discussion, Zoom)](https://rochester.zoom.us/j/95155140724) ...starting at 2:00 PM
 
-## Thursday, October 29, 2020
+*Continue work on...*
 
-- [Discussion: Final Project (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e345985c-5270-43c4-8b6c-ac630171a57f)
-- [Final Project Instructions](dms102-project/instructions.md) (various due dates)
-
+- [Final Project Instructions](dms102-project/instructions.md)
+  - Part 1: Initial Discussion (due: Thursday, November 5)
+  - Part 2: Proposal (due: Thursday, November 12)
+  - Part 3: Application (due: Friday, December 18 ...end of finals week)
