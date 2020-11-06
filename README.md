@@ -5,11 +5,12 @@ Programming Digital Media
 
 ## Tuesday, November 5, 2020
 
-- [Publishing Apps in the Google Play Store (discussion, Zoom)](https://rochester.zoom.us/j/95155140724) ...starting at 2:00 PM
+- [Publishing Apps in the Google Play Store (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6672644d-eb91-4115-a09e-ac6b00e4749d)
 
 *Continue work on...*
 
-- [Final Project Instructions](dms102-project/instructions.md)
+- [Final Project](dms102-project/instructions.md), due dates:
   - Part 1: Initial Discussion (due: Thursday, November 5)
   - Part 2: Proposal (due: Thursday, November 12)
   - Part 3: Application (due: Friday, December 18 ...end of finals week)
+
