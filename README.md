@@ -3,14 +3,18 @@ Programming Digital Media
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) &lArr; here be: slides, assignments, and related links
 
-## Tuesday, November 5, 2020
+## Tuesday, November 10, 2020
 
-- [Publishing Apps in the Google Play Store (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6672644d-eb91-4115-a09e-ac6b00e4749d)
+- **No class meeting today** - instead, look for...
+  - Feedback regarding Part 1 of the Final Project
+  - Grades from previous assignments (now underway)
+  - Discussions in the #publishers channel in Slack; extra credit assignment(s) coming soon
 
 *Continue work on...*
 
 - [Final Project](dms102-project/instructions.md), due dates:
   - Part 1: Initial Discussion (due: Thursday, November 5)
+    - NOTE: if not "passed" by Thursday, November 12, will result in a loss of 10% of your final grade!!! 🤦
   - Part 2: Proposal (due: Thursday, November 12)
   - Part 3: Application (due: Friday, December 18 ...end of finals week)
 
