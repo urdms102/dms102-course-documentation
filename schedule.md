@@ -28,12 +28,12 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 21    | Thursday, November 5, 2020   | [Publishing Apps in the Google Play Store (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6672644d-eb91-4115-a09e-ac6b00e4749d) |                                                              | [Final Project, Part 1 due](dms102-project/instructions.md#part-1-initial-discussion) |
 | 22    | Tuesday, November 10, 2020   | No Class Meeting - Final Project Underway                    |                                                              |                                                              |
 | 23    | Thursday, November 12, 2020  | OPEN LAB                                                     |                                                              | [Final Project, Part 2 due](dms102-project/instructions.md#part-2-proposal) |
-| 24    | Tuesday, November 17, 2020   | OPEN LAB                                                     |                                                              |                                                              |
-| 25    | Thursday, November 19, 2020  |                                                              |                                                              |                                                              |
-| 26    | Tuesday, November 24, 2020   |                                                              |                                                              |                                                              |
+| 24    | Tuesday, November 17, 2020   | OPEN LAB (cancelled, use Slack for help as needed)           |                                                              |                                                              |
+| 25    | Thursday, November 19, 2020  | OPEN LAB                                                     |                                                              |                                                              |
+| 26    | Tuesday, November 24, 2020   | CANCELLED                                                    |                                                              |                                                              |
 | 27    | Tuesday, December 1, 2020    |                                                              |                                                              |                                                              |
 | 28    | Thursday, December 3, 2020   |                                                              |                                                              |                                                              |
-| 29    | Tuesday, December 8, 2020    |                                                              |                                                              |                                                              |
+| 29    | Tuesday, December 8, 2020    |                                                              |                                                              | [Final Project, Part 3](dms102-project/instructions.md#part-3-applications) due: Friday, December 18 ...end of finals week |
 
 \* “**In class**” means…
 
