@@ -3,9 +3,9 @@ Programming Digital Media
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) &lArr; here be: slides, assignments, and related links
 
-## Tuesday, November 24, 2020
+## Tuesday, December 1, 2020
 
-- Cancelled
+- [Lecture 27: Preparing for Publishing (Discussion, Zoom)](https://rochester.zoom.us/j/95155140724) (starting at 2:00 PM)
 
 *Continue work on...*
 
