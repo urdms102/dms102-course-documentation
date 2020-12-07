@@ -33,10 +33,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 26    | Tuesday, November 24, 2020   | CANCELLED                                                    |                                                              |                                                              |
 | 27    | Tuesday, December 1, 2020    | [Lecture 27: Preparing for Publishing (Discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=920f7ba2-7f7a-48e7-be87-ac850023018f) | In-class, optional (extra credit) Assignment 8: Prepare for Publishing (follow-along the lecture video to complete this assignment) |                                                              |
 | 28    | Thursday, December 3, 2020   | OPEN LAB                                                     |                                                              |                                                              |
-| 29    | Tuesday, December 8, 2020    |                                                              |                                                              | [Final Project, Part 3](dms102-project/instructions.md#part-3-applications) due: Friday, December 18 ...end of finals week |
+| 29    | Tuesday, December 8, 2020    | OPEN LAB                                                     |                                                              | [Final Project, Part 3](dms102-project/instructions.md#part-3-applications) due: Friday, December 18 ...end of finals week |
 
-\* “**In class**” means…
 
-- **Zoom** sessions - you are required to attend in real-time
-- Inability to attend Zoom sessions in real-time requires you to watch the full recording of the session in **Panopto** within 24 hours of posting
 

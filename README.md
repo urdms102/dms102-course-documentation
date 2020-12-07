@@ -3,7 +3,7 @@ Programming Digital Media
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) &lArr; here be: slides, assignments, and related links
 
-## Thursday, December 3, 2020
+## Tuesday, December 8, 2020
 
 - Open Lab
 
